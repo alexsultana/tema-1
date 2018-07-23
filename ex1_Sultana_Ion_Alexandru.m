@@ -1,3 +1,7 @@
+Sunt o forta mare
+
+
+
 function ex1()
     a = 0:0.1:2; % de la 0 la 2, cu pasul 0.1
     b = ones(21,1); % o coloana de 1 cu are 21 elem
