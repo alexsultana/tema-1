@@ -1,5 +1,4 @@
-Sunt o forta mare
-
+Mare branch ce am facut sa moara jacksana
 
 
 function ex1()
